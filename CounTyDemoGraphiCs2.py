@@ -1,3 +1,3 @@
-from flask import flask, request, Markup, render_template, flash, Markup
+from flask import Flask, request, Markup, render_template, flash, Markup
 import os
 import json
