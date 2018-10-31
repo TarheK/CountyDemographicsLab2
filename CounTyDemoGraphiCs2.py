@@ -1,5 +1,5 @@
 from flask import Flask, request, Markup, render_template, flash, Markup
 import os
 import json
-@app.route("/")
-def render_home()
+@app.route("/index")
+def render_index()
